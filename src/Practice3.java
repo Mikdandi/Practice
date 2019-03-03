@@ -9,7 +9,7 @@ public class Practice3 {
 		for(int i=0;i<b;i++){
 			a++;
 		}
-	System.out.print(a);
+	System.out.print(b);
 	}
 
 }
